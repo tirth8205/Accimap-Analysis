@@ -1,4 +1,4 @@
-# Project Title
+# AcciMaps Analysis
 
 A comprehensive workflow for processing PDF and PNG files, extracting text, and performing graph-based community analysis. This repository includes a Jupyter Notebook for processing, installation guides, and supporting documentation.
 
